@@ -1,0 +1,91 @@
+# Foundations of Cybersecurity  
+**Google Cybersecurity Certificate – Course 1, Module 1**
+
+---
+
+## 🛡️ Key Concepts
+
+> **Threat Actor** – A person or group who poses a security risk.
+
+Cybersecurity exists to protect organisations from **external and internal threats**, meet **regulatory compliance**, maintain/improve **productivity**, reduce **costs**, and safeguard **brand trust**.
+
+---
+
+## 🧑‍💼 Common Job Titles
+- Security Analyst / Specialist  
+- Cybersecurity Analyst / Specialist  
+- SOC (Security Operations Centre) Analyst  
+- Information Security Analyst  
+
+---
+
+## 🎯 Analyst Responsibilities
+- Protect computers and networks  
+- Run exercises to find weaknesses  
+- Install protection software  
+- Conduct security audits  
+- Work with operations teams
+
+> **Engineers build detections. Analysts operate and respond.**  
+> **Playbook** = Step-by-step response to a specific detection or alert.
+
+---
+
+## 📘 Security Principles
+
+- **Compliance** – Adhering to internal standards & external regulations to avoid fines and breaches.  
+- **Security Frameworks** – Guidelines to help plan defences and mitigate risk.  
+- **Security Controls** – Safeguards used with frameworks to reduce risks.  
+- **Security Posture** – An organisation’s ability to defend against threats and adapt to changes.
+
+---
+
+## 👥 Threat Types
+
+- **Internal Threats** – Current/former staff, vendors, or partners (accidental or intentional)  
+- **External Threats** – Malicious actors outside the organisation  
+- Example: An employee who clicks a malicious email link = accidental internal threat
+
+---
+
+## 🌐 Security Domains
+
+- **Network Security** – Protecting infrastructure, services, and data from unauthorised access  
+- **Cloud Security** – Securing cloud-based assets, ensuring correct config and access control  
+- **Programming in Cyber** – Used to automate tasks, analyse web traffic, and detect anomalies  
+
+---
+
+## 💼 Transferable Skills (soft skills)
+- Communication  
+- Collaboration  
+- Analytical thinking  
+- Problem-solving  
+
+## 🛠️ Technical Skills
+- Programming (Python, Bash, etc.)  
+- Using SIEM tools  
+- Basic computer forensics
+
+---
+
+## 📚 Key Terms & Definitions
+
+| Term | Definition |
+|------|------------|
+| **Cybersecurity** | Ensuring confidentiality, integrity, and availability of data |
+| **Cloud Security** | Protecting assets and infrastructure stored in cloud systems |
+| **Internal Threat** | Insider (staff/vendor/partner) risk, either accidental or malicious |
+| **Network Security** | Protecting organisational networks from unauthorised access |
+| **PII** | Personally identifiable information |
+| **SPII** | Sensitive PII requiring stricter handling |
+| **Security Posture** | Organisation’s ability to defend and respond to threats |
+| **Technical Skills** | Tool/policy-based skills needed for cybersecurity roles |
+| **Threat** | Any event that could negatively impact assets |
+| **Threat Actor** | Anyone or any group that poses a security risk |
+| **Transferable Skills** | Skills from other areas applicable to cybersecurity |
+
+---
+
+📝 *Notes by Dominic Aveiro – July 2025*  
+[Back to repo](../README.md)
