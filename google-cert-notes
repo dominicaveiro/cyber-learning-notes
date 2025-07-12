@@ -88,4 +88,124 @@ Cybersecurity exists to protect organisations from **external and internal threa
 ---
 
 📝 *Notes by Dominic Aveiro – July 2025*  
-[Back to repo](../README.md)
+
+# History of Cybersecurity  
+**Google Cybersecurity Certificate – Course 1, Module 2**
+
+---
+
+## 🧠 Definitions
+
+- **Computer virus** – Malicious code written to interfere with computer operations.  
+- **Malware** – Software designed to damage software, devices, or networks.  
+- **Phishing** – Use of digital communications to trick people into revealing data or installing malware.
+
+---
+
+## 🕰️ Key Cybersecurity Events
+
+| Year | Event | Impact |
+|------|-------|--------|
+| 1986 | **Brain virus** (by Alvi brothers) | Infected inserted floppy disks, altered computing/security industry |
+| 1988 | **Morris Worm** | Tried to assess internet size, but infected ~6,000 computers (~10%) |
+| 2000 | **ILOVEYOU / Love Letter virus** | 45 million infected – first major social engineering attack |
+| 2017 | **Equifax breach** | 143+ million personal records compromised |
+
+---
+
+## 🧑‍💻 Common Attack Methods
+
+### 🔐 Phishing Types
+- **BEC** – Impersonate trusted source to gain financial advantage  
+- **Spear phishing** – Targeted phishing against specific individuals/groups  
+- **Whaling** – Targeting high-level execs  
+- **Vishing** – Voice phishing  
+- **Smishing** – SMS/text-based phishing  
+
+### 🦠 Malware Types
+- **Virus** – Requires user action to execute  
+- **Worm** – Self-replicating, no user action needed  
+- **Ransomware** – Encrypts data, demands payment  
+- **Spyware** – Gathers data without consent  
+
+### 🧠 Social Engineering
+- **Social media phishing** – Collect data from social platforms  
+- **Watering hole attack** – Compromise a popular site  
+- **USB baiting** – Drop malicious USB sticks  
+- **Physical impersonation** – Enter buildings by posing as staff/vendor  
+
+### ⚠️ Principles That Make Social Engineering Effective
+- Authority  
+- Intimidation  
+- Social proof (consensus)  
+- Scarcity  
+- Familiarity  
+- Trust  
+- Urgency  
+
+---
+
+## 🧱 CISSP Security Domains (Overview)
+
+1. **Security and Risk Management**  
+2. **Asset Security**  
+3. **Security Architecture and Engineering**  
+4. **Communication and Network Security**  
+5. **Identity and Access Management**  
+6. **Security Assessment and Testing**  
+7. **Security Operations**  
+8. **Software Development Security**
+
+---
+
+## 💣 Types of Attacks by Domain
+
+### 🔐 Password Attacks (e.g. brute force, rainbow table)  
+→ Domain: Communication and Network Security
+
+### 🧠 Social Engineering (e.g. phishing, USB baiting)  
+→ Domain: Security and Risk Management
+
+### 🔐 Physical Attacks (e.g. card cloning, malicious USB cables)  
+→ Domain: Asset Security
+
+### 🤖 Adversarial AI  
+→ Domains: Communication & Network Security, Identity & Access Management
+
+### 🔗 Supply Chain Attacks  
+→ Domains: Security and Risk Management, Architecture, Operations
+
+### 🔐 Cryptographic Attacks (e.g. birthday, collision, downgrade)  
+→ Domain: Communication and Network Security
+
+---
+
+## 👤 Threat Actor Types
+
+- **Advanced Persistent Threats (APTs)** – Sophisticated, long-term network infiltration  
+- **Insider Threats** – Abuse internal access; sabotage, leaks, or espionage  
+- **Hacktivists** – Politically or socially motivated  
+- **Unskilled Threat Actors** – Script kiddies, revenge actors, hobbyists  
+- **Hacker Categories**:
+  - **Ethical Hackers** – Work within the law (a.k.a. white hats)
+  - **Semi-authorised Researchers** – Probe but don’t exploit
+  - **Unethical Hackers** – Malicious, motivated by profit or chaos
+
+---
+
+## 🧾 Glossary Highlights
+
+| Term | Meaning |
+|------|--------|
+| **Adversarial AI** | Manipulation of ML/AI to aid in cyber attacks |
+| **BEC** | Business Email Compromise — financial phishing scam |
+| **CISSP** | Certified Information Systems Security Professional |
+| **Physical Attack** | Real-world intrusion or damage (e.g. USB, skimming) |
+| **Supply Chain Attack** | Breach via 3rd-party vendors or products |
+| **Watering Hole Attack** | Compromise a site visited by target group |
+| **Whaling** | Spear phishing targeting execs or high-value targets |
+
+---
+
+📝 *Notes by Dominic Aveiro – July 2025*
+
